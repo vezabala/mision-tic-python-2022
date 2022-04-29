@@ -1,0 +1,28 @@
+1.Construir un programa que lea un número entero y determine si es un número positivo de cuatro dígitos.
+2.Construir un programa que lea un número entero y determine si es un número par.
+3.Construir un programa que lea un número entero y determine si es un número impar.
+4.Construir un programa que lea un número entero y determine si su último dígito es un dígito par.
+5.Construir un programa que lea un número entero y determine si la suma de sus dos últimos dígitos es un número par.
+6.Construir un programa que lea un número entero y determine si sus dos últimos dígitos son iguales.
+7.Construir un programa que lea un número entero y determine si la suma de sus dos últimos dígitos es igual a siete.
+8.Construir un programa que lea un número entero y determine si el resultado es sumar sus dos últimos dígitos es un número de un dígito.
+9.Construir un programa que lea dos números enteros y determine si el primer número es mayor que el segundo.
+10.Construir un programa que lea dos números enteros y determinar si el último dígito del primer número es par y al tiempo si el penúltimo dígito del segundo número es impar.
+11.Del conjunto de datos [20, 21, 30, 40,41, 50, 51,201] mostrar en pantalla los que no terminan en uno.
+12.Mostrar diez veces la palabra 'programación'.
+ 13.Del conjunto de cadenas ['e','f','m','a','ma','j','jl','ag','s','o','n','d'] muestre a que corresponde a las iniciales de los meses del año, mostrar el nombre completo de dichos meses usando sentencia repetitiva y condicional.
+14.El conjunto de datos ['omar', 50, 4, 'luis', 40, 5, 'juan', 30, 1]  mostrar en pantalla los datos organizados de tres columnas que tengan por título nombre edad hijos.
+15.Leer una cadena de caracteres y mostrar la verticalmente.
+16.Leer una cadena y determinar cuántas veces dicha cadena contiene la letra A mayúscula.
+17.Construir un programa python que calcule la suma de todos los números comprendidos entre 1 y 1000.
+18.Mostrar los múltiplos de 5 comprendidos entre 13 y 48.
+19.Mostrar los números entre 5 y 30 avanzando de 6 en 6.
+20.Mostrar los nombres completos de los meses y al frente la cantidad de letras que tiene cada nombre.
+21.Mostrar los enteros comprendidos entre 1 y 30 exceptuando los múltiplos de 3
+22.Mostrar los números pares comprendidos entre 1 y 20, al final mostrar la suma de los números pares.
+23.Leer una frase y determinar cuantas vocales tiene.
+24.Leer una frase y determinar cuántas palabras tiene.
+25.Leer una palabra y determinar cuántas sílabas simples tienen.
+26.Generar un programa que cuando detecte numeros hasta 2 cifras con el 7 o multiplo de 7 escriba "pum", cuando tenga mas de 2 cifras escriba 'pum pum' si contiene el con el 7 o multiplo de 7.
+
+ 
