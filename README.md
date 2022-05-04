@@ -1,1 +1,1 @@
-phyton mision tic
+python mision tic 2022
