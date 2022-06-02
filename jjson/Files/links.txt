@@ -1,0 +1,3 @@
+https://dados.anvisa.gov.br/dados/TA_PRECO_MEDICAMENTO.csv
+
+https://raw.githubusercontent.com/mwaskom/seaborn-data/master/taxis.csv
